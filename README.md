@@ -4,7 +4,7 @@
 
 ## Инструкция
 
-1. **Скачайте инструмент Anti Pterodactyl Crasher:**
+1. **Скачайте Anti Pterodactyl Crasher:**
 
    ```bash
    wget https://github.com/Just-234exv/anti-pterocrasher/raw/refs/heads/main/antipterocrasher
