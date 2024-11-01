@@ -28,6 +28,7 @@
    ./antipterocrasher 100
    ```
 
+![image](https://github.com/user-attachments/assets/1bad70f3-a5ce-4553-ae39-0fe9e8c1aa54)
 
 
 # РЕКЛАМА: neptunix.cloud - лучшие сервера для вашего хостинга/сервера/бизнеса
